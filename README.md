@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarathod10&label=Profile%20views&color=0e75b6&style=flat" alt="adityarathod10" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I work as a **Full Stack Developer**, skilled in both front-end and back-end development.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Projects**
 
